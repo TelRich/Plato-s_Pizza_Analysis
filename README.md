@@ -1,7 +1,7 @@
 # Maven Pizza Challenge
 In this project I played the role of a BI Consultant hired by **Plato's Pizza**, a Greek-inspired pizza place in New Jersey. I've been hired  to help the restaurant use data to improve operations.
 
-<center><img src="pizza.jpg"/></center>
+<center><img src="/pictures/pizza.jpg"/></center>
 
 ### Some questions that we'd like to be able to answer:
 * What days and times do we tend to be busiest?
@@ -16,7 +16,7 @@ In this project I played the role of a BI Consultant hired by **Plato's Pizza**,
 * The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 * The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
-<center><img src="weekday_order.png"/></center>
+<center><img src="/pictures/weekday_order.png"/></center>
 
 ## Answers
 * The most **busiest day** is _**Friday**_ with order count of **8,106**. 
@@ -25,7 +25,7 @@ In this project I played the role of a BI Consultant hired by **Plato's Pizza**,
 * The **3 worst selling pizza** include, _**The Soppressatan Pizza**_, _**The Spinach Pesto Pizza**_ and _**The Spinach Supreme Pizza**_.
 The average order value is approximately **$17**.
 
-<center><img src="cat_size_sale.png"/></center>
+<center><img src="/pictures/cat_size_sale.png"/></center>
 
 ## Summary
 * Earliest open hour is 09:52 am and latest closing hour is 23:05 pm
@@ -36,5 +36,9 @@ The average order value is approximately **$17**.
 
 ## Recommendation
 * Replace the worst selling pizza with new pizza type.
+<<<<<<< HEAD
 * The shop be open early for more sales in the morning.
 * Do a promo or sales discount with the best selling pizza to attract more customers.
+=======
+* 
+>>>>>>> 9c5228cda8c93157e54409507ed858c06109f3ee

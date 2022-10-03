@@ -36,9 +36,5 @@ The average order value is approximately **$17**.
 
 ## Recommendation
 * Replace the worst selling pizza with new pizza type.
-<<<<<<< HEAD
 * The shop be open early for more sales in the morning.
 * Do a promo or sales discount with the best selling pizza to attract more customers.
-=======
-* 
->>>>>>> 9c5228cda8c93157e54409507ed858c06109f3ee

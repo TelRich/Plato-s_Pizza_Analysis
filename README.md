@@ -23,11 +23,12 @@ In this project I played the role of a BI Consultant hired by **Plato's Pizza**,
 * More than **1000 pizza are made during peak peiods**. For _January_ record, _1,410 pizza_ was made in the period of _12 pm - 3pm_ while in _February_, _1,275 pizza_ was ordered during the same period _(early afternoon)_
 * The **3 best selling pizzas** include, _**The Classic Deluxe**_, _**The Barbecue Chicken Pizza**_, and _**The Hawaiian Pizza**_.
 * The **3 worst selling pizza** include, _**The Soppressatan Pizza**_, _**The Spinach Pesto Pizza**_ and _**The Spinach Supreme Pizza**_.
-The average order value is **$16.8**.
+The average order value is approximately **$17**.
 
 <center><img src="cat_size_sale.png"/></center>
 
 ## Summary
+* Earliest open hour is 09:52 am and latest closing hour is 23:05 pm
 * The average quantity of _pizza ordered is very high around 10 a.m_ and reduces as the hour goes by.
 * Average sales is high on _Tuesdays_ and _Thursdays_.
 * The _highest sale was made in July with average of $4,301_, while the _least sale was made in October with average of $3,797_.
@@ -35,4 +36,5 @@ The average order value is **$16.8**.
 
 ## Recommendation
 * Replace the worst selling pizza with new pizza type.
-* 
+* The shop be open early for more sales in the morning.
+* Do a promo or sales discount with the best selling pizza to attract more customers.

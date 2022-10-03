@@ -1,9 +1,7 @@
 # Maven Pizza Challenge
 In this project I played the role of a BI Consultant hired by **Plato's Pizza**, a Greek-inspired pizza place in New Jersey. I've been hired  to help the restaurant use data to improve operations.
 
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/220px-Eq_it-na_pizza-margherita_sep2005_sml.jpg" alt="Pizza">
-</p>
+<center><img src="pizza.jpg"/></center>
 
 ### Some questions that we'd like to be able to answer:
 * What days and times do we tend to be busiest?

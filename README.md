@@ -16,5 +16,23 @@ In this project I played the role of a BI Consultant hired by **Plato's Pizza**,
 * The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 * The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
-## Answers/Summary
-* The most busiest day is _Friday_ with order
+<center><img src="weekday_order.png"/></center>
+
+## Answers
+* The most **busiest day** is _**Friday**_ with order count of **8,106**. 
+* More than **1000 pizza are made during peak peiods**. For _January_ record, _1,410 pizza_ was made in the period of _12 pm - 3pm_ while in _February_, _1,275 pizza_ was ordered during the same period _(early afternoon)_
+* The **3 best selling pizzas** include, _**The Classic Deluxe**_, _**The Barbecue Chicken Pizza**_, and _**The Hawaiian Pizza**_.
+* The **3 worst selling pizza** include, _**The Soppressatan Pizza**_, _**The Spinach Pesto Pizza**_ and _**The Spinach Supreme Pizza**_.
+The average order value is **$16.8**.
+
+<center><img src="cat_size_sale.png"/></center>
+
+## Summary
+* The average quantity of _pizza ordered is very high around 10 a.m_ and reduces as the hour goes by.
+* Average sales is high on _Tuesdays_ and _Thursdays_.
+* The _highest sale was made in July with average of $4,301_, while the _least sale was made in October with average of $3,797_.
+* Small size pizza from the veggie category is the most purchase pizza.
+
+## Recommendation
+* Replace the worst selling pizza with new pizza type.
+* 

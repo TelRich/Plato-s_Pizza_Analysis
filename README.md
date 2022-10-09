@@ -3,7 +3,7 @@ In this project I played the role of a BI Consultant hired by **Plato's Pizza**,
 
 <center><img src="/pictures/pizza.jpg"/></center>
 
-### Some questions that we'd like to be able to answer:
+### Some questions that we'd like to answer:
 * What days and times do we tend to be busiest?
 * How many pizzas are we making during peak periods?
 * What are our best and worst selling pizzas?

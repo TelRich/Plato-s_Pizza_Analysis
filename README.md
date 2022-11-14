@@ -1,5 +1,5 @@
 # Maven Pizza Challenge
-In this project I played the role of a BI Consultant hired by **Plato's Pizza**, a Greek-inspired pizza place in New Jersey. I've been hired  to help the restaurant use data to improve operations.
+In this project, I played the BI Consultant hired by **Plato's Pizza**, a Greek-inspired pizza place in New Jersey. I've been hired  to help the restaurant use data to improve operations.
 
 ## [Notebook Viewer](https://nbviewer.org/github/TelRich/Plato-s_Pizza_Analysis/blob/master/pizza_sales.ipynb?flush_cache=True)
 
